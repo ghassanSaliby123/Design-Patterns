@@ -3,4 +3,4 @@
 - Sings to have interface pollution:
 1- Classes have empty methods implementation.
 2- Methods implementations throw UnsupportedOperationException (or similar).
-3- Methds implementations return null or default/dummy values.
+3- Methods implementations return null or default/dummy values.
