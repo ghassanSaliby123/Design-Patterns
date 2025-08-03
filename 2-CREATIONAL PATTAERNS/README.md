@@ -11,3 +11,5 @@ These patterns deal with the process of objects creation.
 ![Image](https://github.com/user-attachments/assets/61e12745-ee55-4857-8c52-66137fc6208d)
 ## 5- Abstract factory
 ![Image](https://github.com/user-attachments/assets/5d846d20-b5d7-4064-b3a0-3a9299ee47e5)
+## 6- Singleton
+![Image](https://github.com/user-attachments/assets/47929c65-5080-4e3c-a4e6-e25521961583)
