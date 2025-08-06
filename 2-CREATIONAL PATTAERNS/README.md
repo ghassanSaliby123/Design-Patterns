@@ -13,5 +13,5 @@ These patterns deal with the process of objects creation.
 ![Image](https://github.com/user-attachments/assets/5d846d20-b5d7-4064-b3a0-3a9299ee47e5)
 ## 6- Singleton
 ![Image](https://github.com/user-attachments/assets/47929c65-5080-4e3c-a4e6-e25521961583)
-## 6- Object pool
+## 7- Object pool
 ![Image](https://github.com/user-attachments/assets/d74722e8-92bd-4bd3-b806-b8f4a11fc60a)
