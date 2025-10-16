@@ -7,3 +7,6 @@
 
 ## 2- Bridge
 ![Image](https://github.com/user-attachments/assets/b9d1b02b-143e-4ec3-b193-3e18052b136c)
+
+## 3- Decorator
+![Image](https://github.com/user-attachments/assets/04e235ae-ad89-44d1-ac47-088072f47092)
