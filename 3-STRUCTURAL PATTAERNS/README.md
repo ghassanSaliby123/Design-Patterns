@@ -10,3 +10,6 @@
 
 ## 3- Decorator
 ![Image](https://github.com/user-attachments/assets/04e235ae-ad89-44d1-ac47-088072f47092)
+
+## 4- Composite
+![Image](https://github.com/user-attachments/assets/ce07914f-6556-430d-add7-619da9ea5ffb)
